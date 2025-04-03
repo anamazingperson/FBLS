@@ -7,13 +7,13 @@ chomd +x run_nonlinear.bsah
 ./run_nonlinear.bash
 ```
 ## File system structure
-├── FBLS.py  # main code 
-├── __init__.py  # for relative import
-├── __pycache__  #cache file, not important
-│   └── FBLS.cpython-310.pyc
-├── README.md  
-├── run_nonlinear.bash  #run the experiment
-└── System_identify.py  # get train and text data and start to show the result
+├── FBLS.py  # main code \
+├── __init__.py  # for relative import\
+├── __pycache__  #cache file, not important\
+│   └── FBLS.cpython-310.pyc\
+├── README.md  \
+├── run_nonlinear.bash  #run the experiment\
+└── System_identify.py  # get train and text data and start to show the result\
 ## 开源协议
 
 本项目采用 [MIT License](LICENSE)。
